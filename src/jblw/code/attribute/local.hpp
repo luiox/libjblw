@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "jblw/code/code.hpp"
 #include "jblw/type/class_type.hpp"

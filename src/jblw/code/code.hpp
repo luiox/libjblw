@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "jblw/type/instance_type.hpp"
 

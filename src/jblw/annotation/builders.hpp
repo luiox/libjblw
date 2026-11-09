@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "annotation.hpp"
 #include "elements.hpp"

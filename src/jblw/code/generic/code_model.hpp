@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "jblw/code/attribute/local.hpp"
 #include "jblw/code/instructions.hpp"
