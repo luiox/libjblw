@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include <jbytecode/core/opcodes.hpp>
 

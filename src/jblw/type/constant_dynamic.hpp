@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "class_type.hpp"
 #include "dynamic_alike.hpp"

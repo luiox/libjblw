@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "jblw/annotation/builders.hpp"
 #include "jblw/annotation/element_traits.hpp"

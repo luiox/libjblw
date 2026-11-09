@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "type.hpp"
 #include "type_error.hpp"

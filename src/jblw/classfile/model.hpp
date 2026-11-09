@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "jblw/annotation/annotation.hpp"
 #include "jblw/code/code.hpp"
