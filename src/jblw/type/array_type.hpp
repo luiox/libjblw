@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "object_type.hpp"
 

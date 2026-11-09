@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include <libca/core/datatype.hpp>
 #include <libca/str/utf8_string.hpp>

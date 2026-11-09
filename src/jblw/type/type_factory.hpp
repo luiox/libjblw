@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "constant_dynamic.hpp"
 #include "invoke_dynamic.hpp"
