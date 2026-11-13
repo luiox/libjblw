@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "array_type.hpp"
 #include "instance_type.hpp"

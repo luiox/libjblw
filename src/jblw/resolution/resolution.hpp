@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "jblw/classfile/model.hpp"
 #include "jblw/type/object_type.hpp"

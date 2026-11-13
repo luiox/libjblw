@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "element.hpp"
 #include "type_path.hpp"

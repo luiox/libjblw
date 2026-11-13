@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "jblw/constant/of_double.hpp"
 #include "jblw/constant/of_dynamic.hpp"
