@@ -17,4 +17,4 @@ xmake build libjblw
 
 ## License
 
-MIT —— 见 [LICENSE](LICENSE)。
+MIT，见 [LICENSE](LICENSE)。
